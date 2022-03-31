@@ -1,0 +1,49 @@
+D:\system\system\bin\Debug\system.exe.config
+D:\system\system\bin\Debug\system.exe
+D:\system\system\bin\Debug\system.pdb
+D:\system\system\obj\Debug\system.Form1.resources
+D:\system\system\obj\Debug\system.Properties.Resources.resources
+D:\system\system\obj\Debug\system.csproj.GenerateResource.cache
+D:\system\system\obj\Debug\system.csproj.CoreCompileInputs.cache
+D:\system\system\obj\Debug\system.exe
+D:\system\system\obj\Debug\system.pdb
+D:\system\system\obj\Debug\system.Form2.resources
+D:\system\system\obj\Debug\system.Form3.resources
+D:\system\system\obj\Debug\system.Form4.resources
+D:\system\system\obj\Debug\system.Form5.resources
+D:\system\system\obj\Debug\system.Form7.resources
+D:\system\system\obj\Debug\system.csprojAssemblyReference.cache
+D:\system\system\obj\Debug\system.Form8.resources
+D:\Dolly\system\system\bin\Debug\system.exe.config
+D:\Dolly\system\system\obj\Debug\system.exe
+D:\Dolly\system\system\obj\Debug\system.pdb
+D:\Dolly\system\system\bin\Debug\system.exe
+D:\Dolly\system\system\bin\Debug\system.pdb
+D:\Dolly\system\system\obj\Debug\system.csprojResolveAssemblyReference.cache
+D:\Dolly\system\system\obj\Debug\system.Form1.resources
+D:\Dolly\system\system\obj\Debug\system.Form2.resources
+D:\Dolly\system\system\obj\Debug\system.Form3.resources
+D:\Dolly\system\system\obj\Debug\system.Form4.resources
+D:\Dolly\system\system\obj\Debug\system.Form5.resources
+D:\Dolly\system\system\obj\Debug\system.Form7.resources
+D:\Dolly\system\system\obj\Debug\system.Form8.resources
+D:\Dolly\system\system\obj\Debug\system.Properties.Resources.resources
+D:\Dolly\system\system\obj\Debug\system.csproj.GenerateResource.Cache
+D:\Dolly\res system\system\bin\Debug\system.exe.config
+D:\Dolly\res system\system\obj\Debug\system.exe
+D:\Dolly\res system\system\obj\Debug\system.pdb
+D:\college\res system\system\bin\Debug\system.exe.config
+D:\college\res system\system\obj\Debug\system.exe
+D:\college\res system\system\obj\Debug\system.pdb
+D:\college\res system\system\bin\Debug\system.exe
+D:\college\res system\system\bin\Debug\system.pdb
+D:\college\res system\system\obj\Debug\system.csprojResolveAssemblyReference.cache
+D:\college\res system\system\obj\Debug\system.Form1.resources
+D:\college\res system\system\obj\Debug\system.Form2.resources
+D:\college\res system\system\obj\Debug\system.Form3.resources
+D:\college\res system\system\obj\Debug\system.Form4.resources
+D:\college\res system\system\obj\Debug\system.Form5.resources
+D:\college\res system\system\obj\Debug\system.Form7.resources
+D:\college\res system\system\obj\Debug\system.Form8.resources
+D:\college\res system\system\obj\Debug\system.Properties.Resources.resources
+D:\college\res system\system\obj\Debug\system.csproj.GenerateResource.Cache
